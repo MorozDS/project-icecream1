@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://morozds.github.io/project-icecream1",
+  "homepage": "https://hayhelv.github.io/project-ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-icecream1/"
+    "build": "parcel build src/*.html --public-url /project-ice-cream/"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,7 @@
     "posthtml-include": "^1.6.2",
     "sass": "^1.32.8"
   },
-  "dependencies": {}
+  "dependencies": {
+    "body-scroll-lock": "^4.0.0-beta.0"
+  }
 }
