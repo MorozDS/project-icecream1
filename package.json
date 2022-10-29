@@ -3,10 +3,11 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://hayhelv.github.io/project-ice-cream",
+  "homepage": "https://morozds.github.io/project-icecream1", 
+
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /project-ice-cream/"
+    "build": "parcel build src/*.html --public-url /project-icecream1/"
   },
   "repository": {
     "type": "git",
